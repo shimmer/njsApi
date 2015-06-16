@@ -1,0 +1,19 @@
+{
+  "name": "njsApi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shimmer/njsApi.git"
+  },
+  "author": "Shiagui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimmer/njsApi/issues"
+  },
+  "homepage": "https://github.com/shimmer/njsApi"
+}
