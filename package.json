@@ -1,8 +1,8 @@
 {
   "name": "njsApi",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Hello World! This is a test.",
+  "main": "app.js",
   "scripts": {
     "test": "test"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/shimmer/njsApi/issues"
   },
-  "homepage": "https://github.com/shimmer/njsApi"
+  "homepage": "https://github.com/shimmer/njsApi",
+  "dependencies": {
+    "mongoose": "^4.0.5"
+  }
 }
